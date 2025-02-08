@@ -7,38 +7,5 @@ root: docs/intro
 parts:
   - caption: 开始准备
     chapters:
-    - file: day01/environment
-    - file: day01/qt-intro
-    
-  - caption: Qt基础知识
-    chapters:
-    - file: day02/basic-widgets
-    - file: day03/layouts
-    - file: day04/signals-slots
-    - file: day05/events
-    
-  - caption: 常用控件
-    chapters:
-    - file: day06/buttons
-    - file: day07/input-widgets
-    - file: day08/display-widgets
-    - file: day09/containers
-    
-  - caption: 高级特性
-    chapters:
-    - file: day10/styling
-    - file: day11/custom-widgets
-    - file: day12/graphics
-    - file: day13/threading
-    
-  - caption: 数据处理
-    chapters:
-    - file: day14/file-io
-    - file: day15/database
-    - file: day16/networking
-    
-  - caption: 实战项目
-    chapters:
-    - file: day17-20/project1
-    - file: day21-25/project2
-    - file: day26-30/project3
+    - file: docs/preparation/environment.md
+  

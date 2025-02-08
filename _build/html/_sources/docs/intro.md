@@ -1,12 +1,31 @@
-# 30天QT-Python学习记录
+# QT-Python 学习之旅
 
-公司需要搭建一套新的windows上位机，因此需要学习QT-Python。
-计划在这本Jupyter-Book当中记录自己学习QT-Python的历程。主要跟随学习的教程为：[白月黑羽Qt教程](https://www.byhy.net/py/qt/qt_01/#__tabbed_1_1)
+## 项目背景
+公司需要搭建一套新的Windows上位机，因此需要学习QT-Python。这本电子书将记录我30天的学习历程，希望能帮助到其他想要学习QT-Python的朋友。
 
-# 目录
+## 学习资源
+主要参考的学习资源：
+- [白月黑羽Qt教程](https://www.byhy.net/py/qt/qt_01/)
 
-```{tableofcontents}
+## 学习计划
+- 每天学习1-2小时，记录学习笔记
+
+## 关于作者
+记录者：紫菜葱花鸡蛋汤  
+GitHub：[项目地址](https://github.com/Vsonic12138/QT-Python-Learning)
+
+## Jupyter-Book使用方式简单记录
+常用指令：
+```bash
+jupyter-book build .
 ```
+每次编辑完内容之后就执行该指令，重新生成html文件。
+执行后，_build目录下会生成html文件，可以打开index.html文件查看。
+根目录下的_toc.yml文件用于配置目录结构、_config.yml文件用于配置书籍信息。
+
+## 更新日志
+- 2025-02-08：开始学习记录,创建Jupyte-Book用于记录文档内容，创建Github仓库用于存储文档。
+- 
 
 
 
