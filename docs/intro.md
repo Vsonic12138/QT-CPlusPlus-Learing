@@ -6,6 +6,8 @@
 ## 学习资源
 主要参考的学习资源：
 - [白月黑羽Qt教程](https://www.byhy.net/py/qt/qt_01/)
+- [PyQT6教程](https://www.pythonguis.com/)
+
 
 ## 学习计划
 - 每天学习1-2小时，记录学习笔记
@@ -25,7 +27,7 @@ jupyter-book build .
 
 ## 更新日志
 - 2025-02-08：开始学习记录,创建Jupyte-Book用于记录文档内容，创建Github仓库用于存储文档。
-- 
+- 2025-02-10：修改intro.md，添加学习资源链接。
 
 
 
