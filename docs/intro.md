@@ -1,12 +1,13 @@
-# QT-Python 学习之旅
+# QT、C++ 学习之旅
 
 ## 项目背景
-公司需要搭建一套新的Windows上位机，因此需要学习QT-Python。这本电子书将记录我30天的学习历程，希望能帮助到其他想要学习QT-Python的朋友。
+公司需要搭建一套新的Windows上位机，因此需要学习QT、C++。这本电子书将记录我30天的学习历程。
 
 ## 学习资源
 主要参考的学习资源：
+- [新巴库Qt教程](https://www.xinbaoku.com/qt/)
+- [新巴库C++教程](https://www.xinbaoku.com/cplus/)
 - [白月黑羽Qt教程](https://www.byhy.net/py/qt/qt_01/)
-- [PyQT6教程](https://www.pythonguis.com/)
 
 
 ## 学习计划
